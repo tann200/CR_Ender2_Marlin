@@ -350,7 +350,7 @@
                                   // is more than PID_FUNCTIONAL_RANGE then the PID will be shut off and the heater will be set to min/max.
   #define K1 0.95 //smoothing factor within the PID
 
-  // Stock CR-10 Hotend fan 100%
+  // Stock Ender-2 Hotend fan 100%
  #define  DEFAULT_Kp 16.37
  #define  DEFAULT_Ki 1.18
  #define  DEFAULT_Kd 26.65
